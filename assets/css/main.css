@@ -2817,9 +2817,9 @@
 						padding-left: 1.75rem;
 					}
 
-			.panel > .inner {
+			/*.panel > .inner {
 				padding: 2.8875rem 1.75rem 1.3875rem 1.75rem ;
-			}
+			}*/
 
 				.panel > .inner.columns {
 					-moz-flex-direction: column;
